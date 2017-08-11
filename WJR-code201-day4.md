@@ -11,3 +11,5 @@ On Images:
 Be sure to set the image size within your CSS rather than on the html file.  Be sure to add a Title for mouse-over functionality, and an Alt tag for screen reader functionality
 
 Use var.join(', ') when trying to convert an array into a readable string of content, sepearated by a comma and space.
+
+Update: ultimately I learned not to feel too comfortable with branching just yet.  It turns out that I had created a repo within 
