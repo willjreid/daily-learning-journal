@@ -12,4 +12,4 @@ Be sure to set the image size within your CSS rather than on the html file.  Be 
 
 Use var.join(', ') when trying to convert an array into a readable string of content, separated by a comma and space.
 
-Update: ultimately I learned not to feel too comfortable with branching just yet.  It turns out that I had created a repo within a repo, which was just the sort of thing they had warned us.  This may help to explain some slow performance out of my Atom text editor.
+Update: ultimately I learned not to feel too comfortable with branching just yet.  It turns out that I had created a repo within a repo, which was just the sort of thing they had warned us.  This may help to explain some slow performance out of my Atom text editor.  A TA helped me delete the extraneous branch I had created, but has encouraged me to work on branching, committing, pull request-ing and merging with each day's journal entries.  I will endeavor to follow that advice.
