@@ -1,0 +1,14 @@
+body {
+  background-image: url(..images/vader_water.jpeg);
+  background-repeat: no-repeat;
+}
+#vader {
+  max-width: 300px;
+  float: left;
+}
+div {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+p {
+  font-family: 'Indie Flower', cursive;
+}
