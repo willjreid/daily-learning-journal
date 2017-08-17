@@ -1,7 +1,7 @@
 Will J. Reid's Learning Journal
 ...a markdown file
 ===============================
-# WJR Code 201 - Day 6
+# WJR Code 201 - Day 7
 
 Today I learned...
 
