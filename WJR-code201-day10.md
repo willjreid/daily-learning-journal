@@ -9,4 +9,4 @@ A little more about the dynamic table calculation process and the form link inpu
 
 We looked briefly at debugging, with an emphasis on using debugger; to pause the code functionality (as long as you have a console window open) so you can use the console window to check your variables to see what value has been assigned to them.  
 
-The afternoon was spent in a rapid design and implementation project.  The final hour before the due date, as expected, was the most productive hour of the day.
+The afternoon was spent in a rapid design and implementation project.  I was expecting the final hour to be the most productive, but we actually had a last mile problem -- I thought we were 90% done at 4:30, but it took us 2 hours to deliver the last 10%.  Shannon was a great partner and really knows her CSS.
