@@ -1,0 +1,11 @@
+# Will J Reid's Learning Journal#
+##*All the thoughts that are fit to commit*##
+### Day 11 -- Nov 06 ###
+
+Today I struggled to complete the 10th lab.  The forEach method still doesn't seem as straightforward as the for method, just because I get to see each of the parameters for counting through the array.
+
+The conString is another concept that is elusive to me.  Here's what I have on it so far:
+
+Your conString specifies information about your data source, and about the means of connecting to it.  It is passed, through your server.js file, to a data provider (a model?) which could be a DB or a spreadsheet or a txt file.  The string may include the name of the driver, the server, the db, and any relevant security info to access the data.
+
+The site connectionstrings.com has a list of all relevant strings you might need based on the system/data attribute you are trying to connect to.  However, these seem more complex than the string in our docs.
